@@ -8,17 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@example.com
-description: 'Yet another Jekyll theme. It is designed for business purpose and ported
-  by  Melvin Ch''ng.
+email: janki.maskoid@gmail.com
+description: 'My first site
 
 '
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 company_name: Electrum, IT & Associates
 address_line: Via Ludovisi 39-45, Rome, 54267, Italy
 telephone_number: 9313392648
-fax_number: 1.800.245.357
+fax_number: 
 company_email: contact@janki.info
 google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
 facebook_link: http://www.facebook.com
