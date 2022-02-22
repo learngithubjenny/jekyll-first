@@ -12,4 +12,4 @@ layout: default_style
 >
 > hhh
 
-&nbsp;
+![](/uploads/screenshot-from-2022-02-10-11-40-1.png){: width="1366" height="768"}&nbsp;
